@@ -37,7 +37,7 @@
     <div class="footer-bottom">
       <p>© {{ year }} Kape ni Juwana. All rights reserved.</p>
       <p class="footer-credit">
-        <a href="https://johanna-panganuron.vercel.app" target="_blank" rel="noopener noreferrer" class="designer-link">
+        <a href="https://johannapanganuron.vercel.app" target="_blank" rel="noopener noreferrer" class="designer-link">
          Developed by Johanna B. Panganuron
         </a>
       </p>
